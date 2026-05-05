@@ -1,16 +1,43 @@
-## Hi there 👋
+# ⬛ BLACK LEGION STUDIOS ⬛
+> **CORE_SYSTEM_v11.0 // FOUNDER: EUGENE // TIMELINE: 2026**
 
-<!--
-**metaforajay-ctrl/metaforajay-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![LDR](https://shields.io) ![GEN](https://shields.io) ![COD](https://shields.io)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏛️ ЦЕНТРАЛЬНЫЙ ТЕРМИНАЛ УПРАВЛЕНИЯ
+
+
+| **ПРИОРЕТЕТНЫЕ ЗАДАЧИ** | **СТАТУС СИСТЕМЫ** |
+| :--- | :---: |
+| **РАЗВЕРНУТЬ ГЛОБАЛЬНЫЙ САЙТ** | `[ COMPLETED ]` ✅ |
+| **ИНТЕГРИРОВАТЬ НЕЙРО-ЯДРО** | `[ STABLE ]` 🔥 |
+| **ЗАХВАТИТЬ ТОП GITHUB** | `[ IN PROGRESS ]` 🚀 |
+| **ОБЪЯСНИТЬ ДИМАНУ, КТО ТУТ БОСС** | `[ ALWAYS ]` 👑 |
+
+---
+
+### 💻 ТЕРМИНАЛ ОСНОВАТЕЛЯ (ЮДЖИН)
+```bash
+# Инициализация протокола вайбкодинга
+$ sudo run --mode=god_mode --vibecoding=max
+
+# Статус загрузки:
+> Languages: ALL_SYSTEMS_LOADED [100%]
+> Vibe: MAXIMUM_POWER [200%]
+> Logic: INF [ERROR: SYSTEM_TOO_COOL]
+```
+
+### ⚡ ПОЧЕМУ BLACK LEGION — ЭТО БУДУЩЕЕ:
+*   **СКОРОСТЬ:** Мы кодим быстрее, чем баги успевают появиться.
+*   **ЭСТЕТИКА:** Если код не выглядит как искусство, он отправляется в корзину.
+*   **КОНТРОЛЬ:** Дмитрий — мозг системы, но ключи от Mainframe только у меня.
+
+---
+
+### 📂 СЕКРЕТНЫЕ ДАННЫЕ
+*   [📜 УСТАВ (CONTRIBUTING)](./CONTRIBUTING.md)
+*   [🛑 НЕ ОТКРЫВАТЬ (ДАЖЕ ДИМАНУ)](./неоткрыватьдажедиману.md)
+
+---
+**© 2026 BLACK LEGION STUDIOS // МЫ НЕ ЖДЕМ БУДУЩЕГО — МЫ ЕГО УЖЕ НАПИСАЛИ.**
